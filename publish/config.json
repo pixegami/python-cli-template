@@ -1,0 +1,12 @@
+{
+  "author": "Pixegami",
+  "package_name_override": "pixegami-my-app",
+  "email": "pixegami@gmail.com",
+  "description": "A template Python CLI app.",
+  "url": "https://github.com/pixegami/python-cli-template",
+  "python_version": "3.8",
+  "version": "0.0.8",
+  "scripts": [
+    "run-my-app = my_app:main"
+  ]
+}
